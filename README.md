@@ -60,10 +60,10 @@ npm start
 
 ## 📸 Screenshots  
 
-### 🔧 AI Agent Workflow (n8n)  
+### 🖥️ Frontend UI (Bolt AI React) 
 ![Frontend UI](https://drive.google.com/uc?export=view&id=1ZoqL-_LZbilw1xTt2DtG9sbzH5JmabR-)  
 
-### 🖥️ Frontend UI (Bolt AI React)  
+### 🔧 AI Agent Workflow (n8n)  
 ![AI Agent Workflow](https://drive.google.com/uc?export=view&id=15qlPdaK1edpPAHUiU6E3ET7_nGQVLzP-)  
 
 
